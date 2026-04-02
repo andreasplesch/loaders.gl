@@ -89,6 +89,9 @@ const SHOWCASE_EXAMPLES = {
       },
       'Royal Exhibition Building (Github Pages)': {
         tilesetUrl: `${DECK_DATA_URI}/3d-tiles/RoyalExhibitionBuilding/tileset.json`
+      },
+      'Lyon (Bertt Github)': {
+        tilesetUrl: `https://bertt.github.io/cesium_3dtiles_samples/samples/octree_lyon/tileset.json`
       }
     }
   }
